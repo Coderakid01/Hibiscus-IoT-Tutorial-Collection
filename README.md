@@ -1,2 +1,2 @@
 # Hibiscus Sense with RTOS
-Hibiscus Sense rEAL time 
+Hibiscus Sense REAL time Operating System 
