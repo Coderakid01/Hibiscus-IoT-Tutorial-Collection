@@ -1,2 +1,2 @@
-# Hibiscus-To-NodeRED
-Hibiscus Sense to connect to the NodeRED with Built-in Sensor (BME280)
+# Hibiscus Sense with RTOS
+Hibiscus Sense rEAL time 
